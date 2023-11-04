@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Me
 permalink: /about
 comments: true
 ---
@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>My journey to the data science field started in a circuits class during my undergrad at BYU. I fell in love with the math that defined the natural processes around us. I wasn't so jazzed about designing chips all day, and so I pivoted majors, joining the Applied and Computational Mathematics degree (a.k.a. <a href=https://acme.byu.edu>ACME</a>). In this program, I was exposed to computational theories and then applied them using Python. I gained a large breadth of knowledge concerning the mathematics that underly many of the methods used to day such as unsupervised learning, fourier transforms, cybersecurity and statistical theory. Statistical methods and machine learning fascinated me most, which led me to get a minor in Computer Science and pursue a master's degree in Statistics.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
