@@ -2,8 +2,8 @@
 name: "Ryan Hilton's Portfolio"
 title: "Ryan Hilton's Porfolio"
 description: "All things data, exploring interesting questions!"
-logo: 'assets/images/blog_logo.png'
-favicon: 'assets/images/blog_logo.png'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
